@@ -1,0 +1,11 @@
+# exclude binaries and debug output
+.vs/
+bin/
+debug/
+release/
+x86/
+x64/
+
+*.rcnet
+# exclude personal settings
+*.code-workspace
